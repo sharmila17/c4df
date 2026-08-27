@@ -1,0 +1,23 @@
+Core deep-learning stack
+
+torch torchvision numpy Pillow
+
+Data and utilities
+
+pandas tqdm
+
+MS-COCO loading/evaluation
+
+pycocotools
+
+Vision-language semantic prior
+
+open-clip-torch
+
+Caption evaluation
+
+nltk rouge-score
+
+Notebook environment
+
+jupyter ipykernel
