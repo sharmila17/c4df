@@ -88,7 +88,7 @@ because of its size. Add the public checkpoint location here when it is
 uploaded:
 
 ``` text
-Checkpoint: <PUBLIC CHECKPOINT LINK>
+Checkpoint: <[PUBLIC CHECKPOINT LINK](https://github.com/sharmila17/c4df/releases/download/c4df/checkpoint_best.pt)>
 ```
 
 Similarly, if `vocab.pt` is distributed separately:
